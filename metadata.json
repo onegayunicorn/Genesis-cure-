@@ -1,0 +1,6 @@
+{
+  "name": "Genesis Cure",
+  "description": "Genesis Cure platform dashboard for quantum-optimized molecular processing simulations and regulatory monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
