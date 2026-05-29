@@ -1,0 +1,18 @@
+# SUBMISSION CHECKLIST (ODD APPLICATION)
+
+## Pre-Submission
+- [ ] LOI signed by Chief Regulatory Officer.
+- [ ] ODD application package finalized (GC-DOC-002 version 1.3.0).
+- [ ] FDA/TGA eCTD/eBS portal accounts verified and active.
+- [ ] Regulatory contact list confirmed (Name, Title, Email, Phone).
+
+## Submission
+- [ ] Electronic submission via FDA ESG or TGA eBS portal.
+- [ ] Certified mail copies sent (if required by local jurisdiction).
+- [ ] Confirmation email sent to ODD@fda.hhs.gov and orphan.drugs@tga.gov.au.
+
+## Post-Submission
+- [ ] Track ODD/IND tracking number assignment.
+- [ ] Monitor email communication for acknowledgment of receipt.
+- [ ] Schedule Type B Pre-Submission Meeting (Target: July 15–August 15, 2026).
+- [ ] Finalize pre-meeting package deliverables (IB, Safety Whitepaper, Validation Summaries) by July 15, 2026.
